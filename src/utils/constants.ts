@@ -1,0 +1,9 @@
+const PAYMENT_METHODS = {
+	PAYPAL: 1,
+	EPAYCO: 2,
+	STRIPE: 3
+}
+
+export {
+	PAYMENT_METHODS
+}
